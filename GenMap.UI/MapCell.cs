@@ -21,6 +21,11 @@ namespace GenMap.UI
         {
             get
             {
+                if (Letters.Length < LetterIndex || Sectors.Length < SectorIndex || Segments.Length < SegmentIndex)
+                {
+                    return "";
+                }
+
                 return string.Format("{0}-{1}-{2}",
                     Letters[LetterIndex], Sectors[SectorIndex], Segments[SegmentIndex]);
             }

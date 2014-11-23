@@ -13,7 +13,7 @@ namespace GenMap.UI
 
         private Bitmap _mapViewBitmap;
 
-        private MapPageDownloader _mapPageDownloader = new MapPageDownloader();
+        private readonly MapPageDownloader _mapPageDownloader = new MapPageDownloader();
 
         public Dictionary<string, MapPage> MapPages
         {
@@ -104,13 +104,17 @@ namespace GenMap.UI
                         string mapPageFile = string.Format("{0}\\maps\\{1}.jpg",
                             Directory.GetCurrentDirectory(),
                             group.Key);
-                        if (File.Exists(mapPageFile))
+
+                        if (!_mapPageDownloader.Tasks.Contains(group.Key))
                         {
-                            MapPages.Add(group.Key, new MapPage(group.Key, mapPageFile));
-                        }
-                        else
-                        {
-                            _mapPageDownloader.Download(group.Key);
+                            if (File.Exists(mapPageFile))
+                            {
+                                MapPages.Add(group.Key, new MapPage(group.Key, mapPageFile));
+                            }
+                            else
+                            {
+                                _mapPageDownloader.Download(group.Key);
+                            }
                         }
                     }
 
