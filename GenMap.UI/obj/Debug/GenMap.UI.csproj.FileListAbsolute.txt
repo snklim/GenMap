@@ -1,0 +1,17 @@
+C:\work\GenMap\GenMap.UI\bin\Debug\GenMap.UI.exe.config
+C:\work\GenMap\GenMap.UI\bin\Debug\GenMap.UI.exe
+C:\work\GenMap\GenMap.UI\bin\Debug\GenMap.UI.pdb
+C:\work\GenMap\GenMap.UI\obj\Debug\GenMap.UI.csprojResolveAssemblyReference.cache
+C:\work\GenMap\GenMap.UI\obj\Debug\GenMap.UI.Properties.Resources.resources
+C:\work\GenMap\GenMap.UI\obj\Debug\GenMap.UI.csproj.GenerateResource.Cache
+C:\work\GenMap\GenMap.UI\obj\Debug\GenMap.UI.exe
+C:\work\GenMap\GenMap.UI\obj\Debug\GenMap.UI.pdb
+C:\work\GenMap\GenMap.UI\bin\Debug\Maps\m-35-072.jpg
+C:\work\GenMap\GenMap.UI\obj\Debug\GenMap.UI.Form1.resources
+C:\work\GenMap\GenMap.UI\bin\Debug\Maps\m-36-061.jpg
+C:\work\GenMap\GenMap.UI\bin\Debug\Maps\m-36-049.jpg
+C:\work\GenMap\GenMap.UI\bin\Debug\Maps\m-36-050.jpg
+C:\work\GenMap\GenMap.UI\bin\Debug\Maps\m-36-062.jpg
+C:\work\GenMap\GenMap.UI\bin\Debug\Maps\MapPagePoints.xml
+C:\work\GenMap\GenMap.UI\bin\Debug\Distort.exe
+C:\work\GenMap\GenMap.UI\bin\Debug\Distort.pdb

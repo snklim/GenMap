@@ -1,0 +1,12 @@
+C:\_temp\Distort\bin\Debug\Distort.exe
+C:\_temp\Distort\bin\Debug\Distort.pdb
+C:\_temp\Distort\obj\Debug\Distort.csprojResolveAssemblyReference.cache
+C:\_temp\Distort\obj\Debug\Distort.exe
+C:\_temp\Distort\obj\Debug\Distort.pdb
+C:\work\GenMap\Distort\bin\Debug\Distort.exe
+C:\work\GenMap\Distort\bin\Debug\Distort.pdb
+C:\work\GenMap\Distort\obj\Debug\Distort.csprojResolveAssemblyReference.cache
+C:\work\GenMap\Distort\obj\Debug\Distort.exe
+C:\work\GenMap\Distort\obj\Debug\Distort.pdb
+C:\work\GenMap\Distort\obj\Debug\Distort.MainForm.resources
+C:\work\GenMap\Distort\obj\Debug\Distort.csproj.GenerateResource.Cache

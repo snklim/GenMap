@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MapPages>
+  <MapPage id="m-35-072">
+    <Points>
+      <Point X="97" Y="142"></Point>
+      <Point X="2205" Y="142"></Point>
+      <Point X="2212" Y="2336"></Point>
+      <Point X="90" Y="2336"></Point>
+    </Points>
+  </MapPage>
+  <MapPage id="m-36-049">
+    <Points>
+      <Point X="103" Y="139"></Point>
+      <Point X="2195" Y="139"></Point>
+      <Point X="2199" Y="2333"></Point>
+      <Point X="94" Y="2331"></Point>
+    </Points>
+  </MapPage>
+  <MapPage id="m-36-061">
+    <Points>
+      <Point X="99" Y="140"></Point>
+      <Point X="2205" Y="140"></Point>
+      <Point X="2216" Y="2336"></Point>
+      <Point X="96" Y="2340"></Point>
+    </Points>
+  </MapPage>
+  <MapPage id="m-36-050">
+    <Points>
+      <Point X="102" Y="139"></Point>
+      <Point X="2196" Y="137"></Point>
+      <Point X="2207" Y="2334"></Point>
+      <Point X="98" Y="2336"></Point>
+    </Points>
+  </MapPage>
+  <MapPage id="m-36-062">
+    <Points>
+      <Point X="89" Y="139"></Point>
+      <Point X="2199" Y="131"></Point>
+      <Point X="2212" Y="2327"></Point>
+      <Point X="90" Y="2337"></Point>
+    </Points>
+  </MapPage>
+</MapPages>
